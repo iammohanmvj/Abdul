@@ -5,3 +5,6 @@ AI/ML Models
 This module will gives you an info on AI/ML Models.
 Below list models are present right now in my project:
   1)Two Class Model
+
+Here we will add other Models on Regression, Classification and Hyper-tuning
+in future 
